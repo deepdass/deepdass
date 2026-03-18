@@ -4,7 +4,7 @@
 I love working on [Game Development projects](https://github.com/deepdass/shibagamee), along with the creative side that comes with it such as Asset Creation, Game Design, VFX, UI and SFX and [Hardware projects](https://github.com/deepdass/akeyboard) that solve problems that i'm having or to build something cool.
 <br>I enjoy exploring both the technical and creative sides of building things, including programming, electronics, 3D modeling, texturing, animation, UI/UX design sound design, shader creation and optimization.
 
-I like experimenting with new ideas, building projects from scratch, learning new things, solving problems and seeing ideas come to life. I also enjoy helping people debug code and sharing what I learn with others.
+I like experimenting with new ideas, building projects from scratch, learning new things, solving problems and seeing ideas come to life. I also love helping people and sharing what I learn with others.
 
 Currently working on [this](https://github.com/deepdass/Multipurpose-Touchpad) and [this](https://github.com/deepdass/horrorgame), also documenting my past projects and sharing them here. 
 
