@@ -6,7 +6,7 @@ I love working on [Game Development projects](https://github.com/deepdass/shibag
 
 I like experimenting with new ideas, building projects from scratch, learning new things, solving problems and seeing ideas come to life. I also love helping people and sharing what I learn with others.
 
-Currently working on [this](https://github.com/deepdass/Multipurpose-Touchpad) and [this](https://github.com/deepdass/horrorgame), also documenting my past projects and sharing them here. 
+Currently working on [this game](https://github.com/deepdass/horrorgame) and [this hardware project](https://github.com/deepdass/Multipurpose-Touchpad), also documenting my past projects and sharing them here. 
 
 <h2 align="left">I code with</h2>
 
