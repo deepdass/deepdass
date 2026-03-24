@@ -8,6 +8,8 @@ I like experimenting with new ideas, building projects from scratch, learning ne
 
 Currently working on [this game](https://github.com/deepdass/horrorgame) and [this hardware project](https://github.com/deepdass/Multipurpose-Touchpad), also documenting my past projects and sharing them here. 
 
+
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -53,5 +55,11 @@ Currently working on [this game](https://github.com/deepdass/horrorgame) and [th
 <p align="left">also Substance Painter, Houdini, Aseprite and Audacity</p>
 
 ###
+
+## What's next 
+Keep creating and doing things I love, reach more people and get more feedback on what I make like for games it could be on itch 
+
+### When not coding or creating assets 
+I also enjoy photography, mostly of the things that gets usually unnoticed. I also love playing basketball and volleyball, I also use to collect rocks as a hobby lol
 
 
